@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0e0e0e;
+    color: #ffffff;
+    text-align: center;
+}
+
+header {
+    padding: 80px 20px;
+    background: #000;
+}
+
+h1 {
+    font-size: 3rem;
+    letter-spacing: 4px;
+}
+
+section {
+    padding: 60px 20px;
+    border-top: 1px solid #222;
+}
